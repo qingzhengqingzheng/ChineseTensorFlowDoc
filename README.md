@@ -10,6 +10,8 @@ TensorFlow2中文文档
    - [基本回归](基本回归.ipynb)
    - [拟合和过拟合](过拟合和欠拟合.ipynb)
    - [保存和恢复模型](保存和恢复模型.ipynb)
+   - [迁移学习进行文本分类](使用TFHub进行文本分类.ipynb)
+3. 数据处理
 ## 指南目录
 ## 声明
 本项目出于学习和研究的目的，对[TensorFlow教程](https://tensorflow.google.cn/tutorials)和[TensorFlow指南](https://tensorflow.google.cn/guide)进行翻译和整理。</br>
