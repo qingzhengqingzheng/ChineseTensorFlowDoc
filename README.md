@@ -12,6 +12,14 @@ TensorFlow2中文文档
    - [保存和恢复模型](保存和恢复模型.ipynb)
    - [迁移学习进行文本分类](使用TFHub进行文本分类.ipynb)
 3. 数据处理
+4. 文本处理
+   - [词嵌入](词嵌入.ipynb)
+   - [使用RNN进行文本分类](使用RNN文本分类.ipynb)
+   - [使用RNN生成文本](使用RNN生成文本.ipynb)
+   - [基于注意力的英中机器翻译](基于注意力机制的英中机器翻译.ipynb)
+5. 自定义基础
+   - [自定义入门](自定义基础.ipynb)
+   - [自定义层](自定义层.ipynb)
 ## 指南目录
 ## 声明
 本项目出于学习和研究的目的，对[TensorFlow教程](https://tensorflow.google.cn/tutorials)和[TensorFlow指南](https://tensorflow.google.cn/guide)进行翻译和整理。</br>
