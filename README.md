@@ -24,6 +24,7 @@ TensorFlow2中文文档
 ## 指南目录
 1. Keras进阶
    - [序列式API](序列式API.ipynb)
+   - [函数式API](Keras函数式API.ipynb)
 2. TensorFlow低层
    - [即刻执行](即刻执行.ipynb)
    - [张量](TensorFlow张量.ipynb)
