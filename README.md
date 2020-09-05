@@ -13,6 +13,7 @@ TensorFlow2中文文档
    - [迁移学习进行文本分类](使用TFHub进行文本分类.ipynb)
 3. 数据处理
    - [CSV数据加载](使用tf.data加载csv数据.ipynb)
+   - [Numpy数据加载](使用tf.data加载NumPy数据.ipynb)
 4. 文本处理
    - [词嵌入](词嵌入.ipynb)
    - [使用RNN进行文本分类](使用RNN文本分类.ipynb)
