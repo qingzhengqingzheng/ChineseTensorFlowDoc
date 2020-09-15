@@ -19,6 +19,7 @@ TensorFlow2中文文档
    - [使用RNN进行文本分类](使用RNN文本分类.ipynb)
    - [使用RNN生成文本](使用RNN生成文本.ipynb)
    - [基于注意力的英中机器翻译](基于注意力机制的英中机器翻译.ipynb)
+   - [基于Transformer的中英机器翻译](基于Transformer的中英机器翻译.ipynb)
 5. 自定义基础
    - [自定义入门](自定义基础.ipynb)
    - [自定义层](自定义层.ipynb)
