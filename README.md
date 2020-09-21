@@ -31,6 +31,7 @@ TensorFlow2中文文档
    - [函数式API](Keras函数式API.ipynb)
    - [训练和评估](训练和评估.ipynb)
    - [编写自定义层和模型](编写自定义层和模型.ipynb)
+   - [保存和序列化模型](保存和序列化模型.ipynb)
 2. TensorFlow低层
    - [即刻执行](即刻执行.ipynb)
    - [张量](TensorFlow张量.ipynb)
