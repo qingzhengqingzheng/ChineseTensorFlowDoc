@@ -34,6 +34,7 @@ TensorFlow2中文文档
    - [编写自定义层和模型](编写自定义层和模型.ipynb)
    - [保存和序列化模型](保存和序列化模型.ipynb)
    - [循环神经网络](Keras循环神经网络.ipynb)
+   - [从头开始编写训练循环](从头开始编写训练循环.ipynb)
 2. TensorFlow低层
    - [即刻执行](即刻执行.ipynb)
    - [张量](TensorFlow张量.ipynb)
