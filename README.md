@@ -40,6 +40,7 @@ TensorFlow2中文文档
    - [自定义fit中发生的操作](自定义fit()中发生的操作.ipynb)
    - [掩盖和填充](掩盖和填充.ipynb)
    - [编写自定义回调](编写自定义回调.ipynb)
+   - [迁移学习](迁移学习.ipynb)
 2. TensorFlow低层
    - [即刻执行](即刻执行.ipynb)
    - [张量](TensorFlow张量.ipynb)
