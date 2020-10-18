@@ -49,6 +49,11 @@ TensorFlow2中文文档
    - [训练循环](训练循环.ipynb)
 3. 杂项
    - [Tensorflow2变化和最佳实践](Tensorflow2变化和最佳实践.ipynb)
+## 待翻译
+- [ ] [TF.Text](https://tensorflow.google.cn/tutorials/tensorflow_text/intro)
+- [ ] [Pix2Pix](https://tensorflow.google.cn/tutorials/generative/pix2pix)
+- [ ] [从TF1迁移到TF2](https://tensorflow.google.cn/guide/migrate)
+- [ ] [分析Tensorflow性能](https://tensorflow.google.cn/guide/profiler)
 ## 声明
 本项目出于学习和研究的目的，对[TensorFlow教程](https://tensorflow.google.cn/tutorials)和[TensorFlow指南](https://tensorflow.google.cn/guide)进行翻译和整理。</br>
 感谢TensorFlow和原文档作者和译者的辛勤工作！
