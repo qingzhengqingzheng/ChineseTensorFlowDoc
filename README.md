@@ -55,6 +55,7 @@ TensorFlow2中文文档
 - [ ] [Pix2Pix](https://tensorflow.google.cn/tutorials/generative/pix2pix)
 - [ ] [从TF1迁移到TF2](https://tensorflow.google.cn/guide/migrate)
 - [ ] [分析Tensorflow性能](https://tensorflow.google.cn/guide/profiler)
+- [ ] [图像说明](https://tensorflow.google.cn/tutorials/text/image_captioning)
 ## 声明
 本项目出于学习和研究的目的，对[TensorFlow教程](https://tensorflow.google.cn/tutorials)和[TensorFlow指南](https://tensorflow.google.cn/guide)进行翻译和整理。</br>
 感谢TensorFlow和原文档作者和译者的辛勤工作！
