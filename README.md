@@ -56,6 +56,12 @@ TensorFlow2中文文档
 - [ ] [从TF1迁移到TF2](https://tensorflow.google.cn/guide/migrate)
 - [ ] [分析Tensorflow性能](https://tensorflow.google.cn/guide/profiler)
 - [ ] [图像说明](https://tensorflow.google.cn/tutorials/text/image_captioning)
+- [ ] [图像分类](https://tensorflow.google.cn/tutorials/images/classification)
+- [ ] [迁移学习和微调](https://tensorflow.google.cn/tutorials/images/transfer_learning)
+- [ ] [数据增强](https://tensorflow.google.cn/tutorials/images/data_augmentation)
+- [ ] [不平衡数据分类](https://tensorflow.google.cn/tutorials/structured_data/imbalanced_data)
+- [ ] [时间序列预测](https://tensorflow.google.cn/tutorials/structured_data/time_series)
+- [ ] [DeepDream](https://tensorflow.google.cn/tutorials/generative/deepdream)
 ## 声明
 本项目出于学习和研究的目的，对[TensorFlow教程](https://tensorflow.google.cn/tutorials)和[TensorFlow指南](https://tensorflow.google.cn/guide)进行翻译和整理。</br>
 感谢TensorFlow和原文档作者和译者的辛勤工作！
