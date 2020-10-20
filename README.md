@@ -53,6 +53,7 @@ TensorFlow2中文文档
    - [Tensorflow2变化和最佳实践](Tensorflow2变化和最佳实践.ipynb)
 ## 待翻译
 - [ ] [TF.Text](https://tensorflow.google.cn/tutorials/tensorflow_text/intro)
+- [ ] [图和函数简介](https://tensorflow.google.cn/guide/intro_to_graphs)
 - [ ] [Pix2Pix](https://tensorflow.google.cn/tutorials/generative/pix2pix)
 - [ ] [从TF1迁移到TF2](https://tensorflow.google.cn/guide/migrate)
 - [ ] [分析Tensorflow性能](https://tensorflow.google.cn/guide/profiler)
